@@ -1,4 +1,4 @@
-# Life Insurance Data Cleaning Project
+# CleanLife: Life Insurance Data Cleaning Project
 
 This project focuses on cleaning a messy dataset related to life insurance policies. The dataset contains various issues such as missing values, inconsistent formats, and invalid data entries. The goal is to clean and standardize the data for further analysis or modeling.
 
