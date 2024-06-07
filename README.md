@@ -32,7 +32,7 @@ Load the dataset into a pandas DataFrame.
 import pandas as pd
 
 # Load the dataset
-df = pd.read_csv('path_to_your_dataset.csv')
+df = pd.read_csv('Life_Insurance_Data.csv')
 ```
 
 ### 2. Inspect the Data
