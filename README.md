@@ -6,7 +6,7 @@ This project focuses on cleaning a messy dataset related to life insurance polic
 
 The dataset contains the following fields:
 
-- `policy_id`: Unique identifier for each policy (6 characters, starting with 'L' followed by 5 random digits).
+- `policy_id`: Unique identifier for each policy.
 - `policy_holder_name`: First name of the policy holder.
 - `last_name`: Last name of the policy holder.
 - `age`: Age of the policy holder.
